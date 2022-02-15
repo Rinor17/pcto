@@ -1,7 +1,7 @@
-data : {
+{
   "palette":[
     {"colorName":"#hex"},
-    //*InsertOtherColors
+    //InsertOtherColors
   ];
   "tickets":[
     "ticketName":[
@@ -9,8 +9,8 @@ data : {
       "ticketPrice",
       "ticketDescription"
     ],
-    //*InsertOtherTickets
+    //InsertOtherTickets
   ];
-  //*InsertOtherObjects 
-  //*(they must be optimized for a dynamic page)
+  //InsertOtherObjects 
+  //(they must be optimized for a dynamic page)
 }
