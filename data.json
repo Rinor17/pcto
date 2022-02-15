@@ -1,7 +1,6 @@
 {
   "palette":[
     {"_colorName":"_#hex"},
-    //InsertOtherColors
   ]
   "tickets":[
     "_ticketName":[
@@ -11,8 +10,5 @@
       "_endDate",
       "_ticketDescription"
     ],
-    //InsertOtherTickets
   ]
-  //InsertOtherObjects 
-  //(they must be optimized for a dynamic page)
 }
