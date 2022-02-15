@@ -1,6 +1,11 @@
 {
   "palette":[
-    {"_colorName":"_#hex"},
+    {"_colorName":"_#hexaCode"},
+    {"white":"fdf8f3"}
+    {"grey":"#333333"},
+    {"red":"#a0202c"},
+    {"gold":"fdd50c"},
+    {"lightBlue":"#3284aa"}
   ]
   "tickets":[
     "_ticketName":[
