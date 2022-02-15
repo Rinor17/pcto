@@ -1,0 +1,16 @@
+data : {
+  "palette":[
+    {"colorName":"#hex"},
+    //*InsertOtherColors
+  ];
+  "tickets":[
+    "ticketName":[
+      "ticketCode",
+      "ticketPrice",
+      "ticketDescription"
+    ],
+    //*InsertOtherTickets
+  ];
+  //*InsertOtherObjects 
+  //*(they must be optimized for a dynamic page)
+}
