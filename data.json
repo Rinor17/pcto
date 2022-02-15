@@ -1,13 +1,15 @@
 {
   "palette":[
-    {"colorName":"#hex"},
+    {"_colorName":"_#hex"},
     //InsertOtherColors
   ];
   "tickets":[
-    "ticketName":[
-      "ticketCode",
-      "ticketPrice",
-      "ticketDescription"
+    "_ticketName":[
+      "_ticketCode",
+      "_ticketPrice",
+      "_startDate",
+      "_endDate",
+      "_ticketDescription"
     ],
     //InsertOtherTickets
   ];
