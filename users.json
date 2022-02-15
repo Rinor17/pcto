@@ -1,0 +1,19 @@
+{
+  "user":
+  {
+    "_username":"UserUsername",
+    "_password":"userPassword",
+    "_shoppingCartCode":shoppingCartCode,
+    "boughtTickets":[
+      "_ticketCode":"ticketCode",
+      "_quantity":quantity,
+      "_usefulDates":[
+        "_dateType":[
+          "year":2022,
+          "month":12,
+          "day":31
+        ]
+      ],
+    ],
+  },
+}
